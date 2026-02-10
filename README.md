@@ -1,3 +1,18 @@
+# 关于此Fork仓库的声明
+
+此仓库构建了ModernWpfUI未发布的最新版本，仅对 `.csproj` 内的目标框架作修改，除此之外不作任何修改
+
+
+*English version:*
+
+This repository builds the unreleased latest version of ModernWpfUI. Only the target framework within the `.csproj` file is modified; no other changes are made.
+
+---
+---
+---
+---
+---
+
 # ModernWPF UI Library
 [![Gitter](https://badges.gitter.im/ModernWpf/community.svg)](https://gitter.im/ModernWpf/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
