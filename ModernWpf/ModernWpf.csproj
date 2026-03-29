@@ -11,7 +11,7 @@
 
   <PropertyGroup>
     <CsWinRTEmbedded>true</CsWinRTEmbedded>
-    <CsWinRTWindowsMetadata>10.0.26100.0</CsWinRTWindowsMetadata>
+    <CsWinRTWindowsMetadata>10.0.22621.0</CsWinRTWindowsMetadata>
     <CsWinRTIncludes>
       Windows.Foundation;
       Windows.UI.Color;
