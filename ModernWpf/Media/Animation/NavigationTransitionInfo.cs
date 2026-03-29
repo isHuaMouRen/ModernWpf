@@ -39,9 +39,9 @@ namespace ModernWpf.Media.Animation
             return null;
         }
 
-        internal static readonly TimeSpan ExitDuration = TimeSpan.FromMilliseconds(150);
-        internal static readonly TimeSpan EnterDuration = TimeSpan.FromMilliseconds(300);
-        internal static readonly TimeSpan MaxMoveDuration = TimeSpan.FromMilliseconds(500);
+        public static TimeSpan ExitDuration = TimeSpan.FromMilliseconds(150);
+        public static TimeSpan EnterDuration = TimeSpan.FromMilliseconds(300);
+        public static TimeSpan MaxMoveDuration = TimeSpan.FromMilliseconds(500);
 
         internal static readonly KeySpline AccelerateKeySpline;
         internal static readonly KeySpline DecelerateKeySpline;
